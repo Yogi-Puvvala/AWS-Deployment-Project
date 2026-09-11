@@ -1,6 +1,5 @@
-transformers == 5.17.0
-torch == 2.14.0
-uvicorn == 0.52.4
-fastapi == 0.141.1
-pydantic == 2.13.5
-boto3 == 1.43.92
+transformers==5.17.0
+uvicorn==0.52.4
+fastapi==0.141.1
+pydantic==2.13.5
+boto3==1.43.92
